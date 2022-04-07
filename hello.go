@@ -1,5 +1,5 @@
 package hello 
 
 func Hello(friend string) string {
-	return friend 
+	return "Go for it " + friend 
 }
